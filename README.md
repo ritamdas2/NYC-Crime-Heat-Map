@@ -1,5 +1,5 @@
 # NYC-Crime-Heat-Map
-Our project focuses on the most active crime locations within a city. The program will take data from public crime databases and pinpoint the most dangerous locations. With this, it is easier for the general public to know which areas are dangerous and allows them to prepare accordingly. It also brings awareness to the fact that these areas need more safety protocols, and inspire people of power to try and better it. The full app is going to prompt the user for a city. For now, we are only going to focus on New York City. The user will open up the app and filter a type of crime.
+Our project focuses on the most active crime locations within a city. The program will take data from public crime databases and pinpoint the most dangerous locations. With this, it is easier for the general public to know which areas are dangerous and allows them to prepare accordingly. It also brings awareness to the fact that these areas need more safety protocols, and inspire people of power to try and resolve this issue. The full app is going to prompt the user for a city. For now, we are only going to focus on New York City. The user will open up the app and filter a type of crime.
 
 ### API:
 (https://data.cityofnewyork.us/resource/9s4h-37hy.json)
