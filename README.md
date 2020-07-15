@@ -46,5 +46,5 @@ Our project focuses on the most active crime locations within a city. The progra
 - The master_show is what drives this app, it actually generates other images for the app.
 
 #### Authors
-Ritam Das, Nicholas Asencio, Erick Argudo
+Ritam Das, Nicholas Asencio, & Erick Argudo
 
