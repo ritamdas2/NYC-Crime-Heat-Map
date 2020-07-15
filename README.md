@@ -1,19 +1,25 @@
 # NYC-Crime-Heat-Map
 Our project focuses on the most active crime locations within a city. The program will take data from public crime databases and pinpoint the most dangerous locations. With this, it is easier for the general public to know which areas are dangerous and allows them to prepare accordingly. It also brings awareness to the fact that these areas need more safety protocols, and inspire people of power to try and better it. The full app is going to prompt the user for a city. For now, we are only going to focus on New York City. The user will open up the app and filter a type of crime.
 
-## API:
+### API:
 (https://data.cityofnewyork.us/resource/9s4h-37hy.json)
 
-## Public Dataset:
+### Public Dataset:
 (https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
 
-## Instructions
+### Instructions
 -Open up Matlab
+
 -Make sure that the ‘NewNYCmap.png’ is loaded into the Matlab Files
+
 -Type in app designer
+
 -Open app3
+
 -Click Run
+
 -Select your crime of choice
+
 -Patiently wait as the app works diligently to collect your inputs and keep you safe in NYC
 
 ### Breakdown
